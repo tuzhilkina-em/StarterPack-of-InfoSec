@@ -1,4 +1,4 @@
-0. Что такое AD?
+0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b1477a037868f3975fbf7e81945da84f60959c07/AD/1.md)
 1. Какие FSMO роли есть на контроллере домена и для чего каждая нужна?
 2. Есть ли primary домен контроллер в лесу?
 3. Что такое лес AD?
