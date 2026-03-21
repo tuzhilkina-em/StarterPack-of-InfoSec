@@ -1,7 +1,7 @@
 0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b1477a037868f3975fbf7e81945da84f60959c07/AD/1.md)
 1. [Какие FSMO роли есть на контроллере домена и для чего каждая нужна?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/a7cd645a86281b3c83e5ae5b17f23c1bd07d172f/AD/1.md)
 2. [Есть ли primary домен контроллер в лесу?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5dccdf108cb20e2e21b7924b746fc5acb7d62102/AD/2.md)
-3. Что такое лес AD?
+3. [Что такое лес AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/454d1ae0467c3e7e2b88e63c9d60687c946bc407/AD/3.md)
 4. Что значит функциональный уровень леса ?  
 4.1. Какое минимальное кол-во доменов необходимо иметь, чтобы получить лес домена?
 5. Что такое сайты AD ?
