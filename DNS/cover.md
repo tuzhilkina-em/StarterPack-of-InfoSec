@@ -1,4 +1,4 @@
-0. Что такое DNS ?
+0. [Что такое DNS?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/afdef71564bd49a89aa4a6903ee50b7b95e37a35/DNS/0.md)
 1. Какие виды DNS записи существуют и за что они отвечают?
 2. Что такое зона обратного просмотра ?
 3. Как происходит репликация DNS зон ?
