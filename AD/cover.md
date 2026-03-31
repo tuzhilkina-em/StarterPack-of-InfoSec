@@ -7,7 +7,7 @@
 5. [Что такое сайты AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/75c67a1dbf732b50564c3814b91de9c3f6946167/AD/5.md)
 6. [Какие каталоги участвуют в репликации между контроллерами домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/bab190b43e8f3a6bc4bc26a877e6d87d60da1f0b/AD/6.md)
 7. [Без каких сопутствующих компонентов не будет работать AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3415084d126c925c4c76c796efb124454da646b3/AD/7.md)
-8. Как принудительно запустить репликацию каталогов на контроллере домена?
+8. [Как принудительно запустить репликацию каталогов на контроллере домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/af5669f29cc9298c195b2562ca2fcc7122da66c1/AD/8.md)
 9. Что за группы BUILTIN?
 10. Что такое AD tombstone?
 11.Какие порты нужны для связи от клиента до контроллера домена?
