@@ -9,8 +9,8 @@
 7. [Без каких сопутствующих компонентов не будет работать AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3415084d126c925c4c76c796efb124454da646b3/AD/7.md)
 8. [Как принудительно запустить репликацию каталогов на контроллере домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/af5669f29cc9298c195b2562ca2fcc7122da66c1/AD/8.md)
 9. [Что за группы BUILTIN?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/9dc00ba2a429ed885e088fa4b0014709ade3dd42/AD/9.md)
-10. Что такое AD tombstone?
-11.Какие порты нужны для связи от клиента до контроллера домена?
+10. Что такое AD tombstone?  
+11. Какие порты нужны для связи от клиента до контроллера домена?
 12. Как хост находит контроллер домена?
 13. Что такое схема AD?
 14. Какие виды групп есть и чем они различаются?
