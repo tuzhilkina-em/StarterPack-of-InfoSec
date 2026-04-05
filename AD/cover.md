@@ -12,7 +12,7 @@
 10. [Что такое AD tombstone?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b770b8f541872b74f8951403493d4b3f06145c3f/AD/10.md)  
 11. [Какие порты нужны для связи от клиента до контроллера домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7ceb1171fc5dd8fa672e97b16b75cb4d932b76ad/AD/11.md)
 12. Как хост находит контроллер домена?
-13. Что такое схема AD?
+13. [Что такое схема AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2e8e2af1b0c3841bf1ef7597e0881edf7cd18fba/AD/13.md)
 14. Какие виды групп есть и чем они различаются?
 15. Как формируется kerberos токен?
 16. Что такое OU?
