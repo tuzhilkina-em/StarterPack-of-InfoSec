@@ -14,7 +14,7 @@
 12. Как хост находит контроллер домена?
 13. [Что такое схема AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2e8e2af1b0c3841bf1ef7597e0881edf7cd18fba/AD/13.md)
 14. Какие виды групп есть и чем они различаются?
-15. Как формируется kerberos токен?
+15. [Как формируется kerberos токен?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5bd6c3dd713069bd4d782896a56e2666bab53848/soc/L1/base/6.md)
 16. Что такое OU?
 17. Что такое GPO, приоритезация GPO в домене и на локальной машине? что такое scope GPO политики?
 18. Где храниться AD на файловом уровне 'каталог'?
