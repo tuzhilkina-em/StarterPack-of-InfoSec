@@ -1,8 +1,8 @@
 1. [Что такое модель OSI?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/787085e09bab56f9f068b0749a32ef4d4b6cbf85/soc/L1/base/1.md)
 2. [Что такое маска подсети? Какие есть способы её записи?  
    В какой подсети больше хостов 10.0.0.0/24 или 10.0.0.0/23? Сколько адресов в каждой из них?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/ff6880763697c1ccc5b60080672f82a384e6b524/net/2.md)
-4. Назвать сети приватных адресов
-5. Что за сеть 127.0.0.1/8?
+4. [Назвать сети приватных адресов](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/ff6880763697c1ccc5b60080672f82a384e6b524/net/2.md)
+5. [Что за сеть 127.0.0.1/8?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/ff6880763697c1ccc5b60080672f82a384e6b524/net/2.md)
 6. В чем отличия протокола TCP от UDP? В каком случае пакет будет помечен флагом SYN, FIN?
 7. По какому порту работает ICMP? Какие утилиты его используют?
 8. Что такое ARP?
