@@ -17,7 +17,7 @@
 15. [Как формируется kerberos токен?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5bd6c3dd713069bd4d782896a56e2666bab53848/soc/L1/base/6.md)
 16. [Что такое OU?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/18279669309c943a8379cb86a1be72773155b1ca/AD/16.md)
 17. [Что такое GPO, приоритезация GPO в домене и на локальной машине? что такое scope GPO политики?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2ba66aefe456288f77ea5cceeb1cca0cb7b5f462/AD/17.md)
-18. Где храниться AD на файловом уровне 'каталог'?
+18. [Где храниться AD на файловом уровне 'каталог'?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/a5b2cc515bdfeb151c7b73f2a968cca4951c7dde/AD/18.md)
 19. Какие права по умолчанию есть у пользователя на просмотр объектов AD?
 20. Что можно узнать по атрибутам пользователя?
 21. Какие есть уровни доступа на уровне NTFS?  
