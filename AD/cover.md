@@ -13,7 +13,7 @@
 11. [Какие порты нужны для связи от клиента до контроллера домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7ceb1171fc5dd8fa672e97b16b75cb4d932b76ad/AD/11.md)
 12. [Как хост находит контроллер домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/bd631311d45ca84bd870aeed698835bb7b0e8d86/AD/12.md)
 13. [Что такое схема AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2e8e2af1b0c3841bf1ef7597e0881edf7cd18fba/AD/13.md)
-14. Какие виды групп есть и чем они различаются?
+14. [Какие виды групп есть и чем они различаются?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/25c538e37aedfb2d51611d0cf8e62f55ad411ea0/AD/14.md)
 15. [Как формируется kerberos токен?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5bd6c3dd713069bd4d782896a56e2666bab53848/soc/L1/base/6.md)
 16. Что такое OU?
 17. Что такое GPO, приоритезация GPO в домене и на локальной машине? что такое scope GPO политики?
