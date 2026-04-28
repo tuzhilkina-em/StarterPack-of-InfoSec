@@ -18,7 +18,7 @@
 16. [Что такое OU?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/18279669309c943a8379cb86a1be72773155b1ca/AD/16.md)
 17. [Что такое GPO, приоритезация GPO в домене и на локальной машине? что такое scope GPO политики?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2ba66aefe456288f77ea5cceeb1cca0cb7b5f462/AD/17.md)
 18. [Где храниться AD на файловом уровне 'каталог'?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/a5b2cc515bdfeb151c7b73f2a968cca4951c7dde/AD/18.md)
-19. Какие права по умолчанию есть у пользователя на просмотр объектов AD?
+19. [Какие права по умолчанию есть у пользователя на просмотр объектов AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/faac35a18a4a7fa140ca59e197fe21eb125a2660/AD/19.md)
 20. Что можно узнать по атрибутам пользователя?
 21. Какие есть уровни доступа на уровне NTFS?  
 21.1* Как создать такую папку в которую могут перемещать файлы все пользователи, а просматривать и редактировать, только тот кто ее создал?
