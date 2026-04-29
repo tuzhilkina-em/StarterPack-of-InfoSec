@@ -26,7 +26,7 @@
 23. Какие инструменты для управления сервисами AD доступно по умолчанию?
 24. [Какие основные протоколы аутентификации в доменной среде вы знаете? В чем их отличие?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f665a8640b5a199918ef90fe9b81435852fdc8d/AD/24.md)  
 25. [Что такое доверительные отношения между доменами?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f9116567b0c60926b9c5f5d87eb9c13d0cfee82b/AD/25.md)
-26. Что такое SID? О чем говорит SID, заканчивающийся на -500 и -512?
+26. [Что такое SID? О чем говорит SID, заканчивающийся на -500 и -512?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/8e91ce92845461133f1de5650b2fe71cdeadfe37/AD/26.md)
 27. Что за группа Protected Users, для чего она нужна?
 28. Для чего нужен AppLocker и какие есть плюсы/минусы его использования?
 29. Чем отличается Golden Ticket от Silver Ticket?
