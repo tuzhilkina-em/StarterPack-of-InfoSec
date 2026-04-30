@@ -6,7 +6,7 @@
 4.1. Какое минимальное кол-во доменов необходимо иметь, чтобы получить лес домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/00bd27e002e710ea0cd7d8be66a5583ad62fe230/AD/4(1).md)
 5. [Что такое сайты AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/75c67a1dbf732b50564c3814b91de9c3f6946167/AD/5.md)
 6. [Какие каталоги участвуют в репликации между контроллерами домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/bab190b43e8f3a6bc4bc26a877e6d87d60da1f0b/AD/6.md)
-7. [Без каких сопутствующих компонентов не будет работать AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/7.md)
+7. [Без каких сопутствующих компонентов не будет работать AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e994a0de8b388f763c59b8d32d4509a5297e12af/AD/7.md)
 8. [Как принудительно запустить репликацию каталогов на контроллере домена?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/af5669f29cc9298c195b2562ca2fcc7122da66c1/AD/8.md)
 9. [Что за группы BUILTIN?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/844a8bde3160bd549d7d5ac46b317ac02b2ede99/AD/9.md)
 10. [Что такое AD tombstone?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b770b8f541872b74f8951403493d4b3f06145c3f/AD/10.md)  
