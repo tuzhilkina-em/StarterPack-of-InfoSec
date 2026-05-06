@@ -1,4 +1,4 @@
-0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/0.md)
+<img width="484" height="114" alt="image" src="https://github.com/user-attachments/assets/e8569188-b18e-4e65-b2d1-402657996cab" />0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/0.md)
 1. [Какие FSMO роли есть на контроллере домена и для чего каждая нужна?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/1.md)
 2. [Есть ли primary домен контроллер в лесу?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5dccdf108cb20e2e21b7924b746fc5acb7d62102/AD/2.md)
 3. [Что такое лес AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/454d1ae0467c3e7e2b88e63c9d60687c946bc407/AD/3.md)
@@ -32,4 +32,14 @@
 29. [Чем отличается Golden Ticket от Silver Ticket?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/42f0740ec513408c9949d8f7513773446362eae6/AD/29.md)
 30. [Специалистом по информационной безопасности было выдвинуто предположение об успешной атаке с применением техники Kerberoasting, на основе каких данных можно это подтвердить или опровергнуть? В чем конкретно заключается данная атака?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/42f0740ec513408c9949d8f7513773446362eae6/AD/29.md)
 31. [В ходе расследования инцидента вами было обнаружено, что учетная запись krbtgt отключена. Ваши действия?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/42f0740ec513408c9949d8f7513773446362eae6/AD/29.md)
+
+### Допвопросы от Василия (вероятно)
+1. Почему не даёт в другой подсети сделать ptr запись?
+2. Где применяется FQDN? Связь FQDN и NetBIOS?
+3. Компонент репликации AD?
+4. Что такое DNSSEC?
+5. Что такое AdminSDHolder?
+6. Включена ли корзина AD по умолчанию?
+7. Что хранится в SYSVOL?
+ 
 
