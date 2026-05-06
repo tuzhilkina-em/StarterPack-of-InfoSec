@@ -1,4 +1,4 @@
-<img width="484" height="114" alt="image" src="https://github.com/user-attachments/assets/e8569188-b18e-4e65-b2d1-402657996cab" />0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/0.md)
+0. [Что такое AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/0.md)
 1. [Какие FSMO роли есть на контроллере домена и для чего каждая нужна?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f683d4c1e0462f115a2d001bd2c6e76625aaa45/AD/1.md)
 2. [Есть ли primary домен контроллер в лесу?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5dccdf108cb20e2e21b7924b746fc5acb7d62102/AD/2.md)
 3. [Что такое лес AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/454d1ae0467c3e7e2b88e63c9d60687c946bc407/AD/3.md)
