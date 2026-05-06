@@ -41,5 +41,6 @@
 5. Что такое AdminSDHolder?
 6. Включена ли корзина AD по умолчанию?
 7. Что хранится в SYSVOL?
+8. adminsdholder 
  
 
