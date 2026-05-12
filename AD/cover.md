@@ -45,7 +45,7 @@
 9. Как работает механизм Protected Users
 10. Организация архитектуры Tiering в Active Directory
 11. Гранулированная парольная политика в домене
-12. Механизм теневых групп (Shadow groups)
+12. [Механизм теневых групп (Shadow groups)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5095b39dfc375585d1605cbe1c4c7874315c5a6a/AD/vasya12.md)
 13. Лабораторная работа - Централизованное хранилище ADMX файлов
 14. ﻿[Процесс построения топологии репликации КСС](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6c42d152bcd5030a0fc3b05e0d7d1b0b3111c16b/AD/vasya14.md)
 15. Механизм PKInit
