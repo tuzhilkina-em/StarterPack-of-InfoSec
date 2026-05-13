@@ -28,6 +28,10 @@ ADMX содержит описание политики, а ADML - языков�
 
 Вот что выйдет:  
 
+![результат](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e7ac9c8ce99e6c92df24fb19c70ed777d441f403/soc/L1/base/images/photo_2026-05-13%2015.08.18.jpeg)  
+
+
+
 
 ### 2. Просмотр содержимого каталога C:\\Windows\PolicyDrfinitions
 Дальше процесс опишу только для дочернего домена, для корневого и прочих действия будут аналогичными. В Powershell, открытом от имени администратора перейдем в C:\\Windows\PolicyDefinitions и командой ls сможем увидеть хранимые там файлы  
