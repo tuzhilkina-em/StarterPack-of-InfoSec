@@ -9,6 +9,10 @@
 
 После переименования деволтного сайта создаем сайт для дочки: 
 
-![Создание второго сайта](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/365f8cf7e88d95653001d4d149f64501596fa081/soc/L1/base/images/photo_2026-05-13%2017.01.52.jpeg)
+![Создание второго сайта](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/365f8cf7e88d95653001d4d149f64501596fa081/soc/L1/base/images/photo_2026-05-13%2017.01.52.jpeg)  
+
+Далее займемся subnet mapping:
+
+![subnet mapping](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/64092d2439da1be19b95b723c8577a0b3991d190/soc/L1/base/images/photo_2026-05-13%2017.01.54.jpeg)
 
 
