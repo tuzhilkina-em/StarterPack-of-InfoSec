@@ -16,13 +16,17 @@ ADMX содержит описание политики, а ADML - языков�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Далее создала переменную $password. В нее кладется пароль, преобразованный в тип SecureString. Командлет New-ADUser не принимает обычный текстовый пароль напрямую, поэтому строку "p@ssword!123" нужно преобразовать, тк это виртуалка с паролями можно куралесить напрямую:
 
-> $password = ConvertTo-SecureString "p@ssword!123" -AsPlainText -Forse
+> $password = ConvertTo-SecureString "p@ssword!123" -AsPlainText -Forse  
 <br>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Для обеих DС фигачим по 1000 пользаков командой ниже, атрибут **-Path** меняется в зависимости от структуры леса и относительного расположения домена
 
 > 1..1000 | ForEachObject { NewADUser -Name "winlabUser$_" -SamAccountName "winlabUser$_" -UserPrincipalName "winlabUser$_adlab.local" -Path "OU=WinlabUsers,DC=adlab,DC=local" -AccountPassword $password -Enabled $true }
-<br>  
+<br>
+
+![создание пользаков](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/27b9956d8b6938cb0432951ee3e19805642dcff1/soc/L1/base/images/photo_2026-05-13%2015.08.15.jpeg)  
+
+Вот что выйдет:  
 
 
 ### 2. Просмотр содержимого каталога C:\\Windows\PolicyDrfinitions
