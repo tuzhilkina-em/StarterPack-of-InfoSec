@@ -9,6 +9,6 @@
 
 После переименования деволтного сайта создаем сайт для дочки: 
 
-![Создание второго сайта]
+![Создание второго сайта](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/365f8cf7e88d95653001d4d149f64501596fa081/soc/L1/base/images/photo_2026-05-13%2017.01.52.jpeg)
 
 
