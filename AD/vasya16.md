@@ -19,3 +19,5 @@
 
 ![check](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b765c5b07c3dc41d2aaac8533833ec032fefaed6/soc/L1/base/images/photo_2026-05-13%2017.01.58.jpeg)
 
+
+Сами сайты готовы, просмотр линков с DC 
