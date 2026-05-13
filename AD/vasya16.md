@@ -21,3 +21,4 @@
 
 
 Сами сайты готовы, просмотр линков с DC 
+![links](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3c519b9ad6a4e193fd2afa8153fe47206407e16c/soc/L1/base/images/photo_2026-05-13%2017.27.15.jpeg)
