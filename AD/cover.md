@@ -49,7 +49,7 @@
 13. Лабораторная работа - Централизованное хранилище ADMX файлов
 14. ﻿[Процесс построения топологии репликации КСС](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6c42d152bcd5030a0fc3b05e0d7d1b0b3111c16b/AD/vasya14.md)
 15. [Механизм PKInit](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/280e966a27b48efb23ab4a982d841c4f63b9a369/AD/vasya15.md)
-16. Лабораторная - включение метода репликации по уведомлению для межсайтовых линков
+16. [Лабораторная - включение метода репликации по уведомлению для межсайтовых линков](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6fd345999b83a7de82710d135a4db89e9caeb754/AD/vasya16.md)
 17. ﻿Методы быстрого применения новой групповой политики на всех хостах (1000+ хостов)
 18. ﻿[При сбросе УЗ компьютера какой пароль устанавливается по умолчанию и в каких функциональных уровнях лесов?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0f48382f46a9c125a656f2ed74564c51f27deeb4/AD/vasya18.md)
 19. [﻿﻿Как работает LDAPS](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e2666e9cd097856436b451257bfd143b41b54857/AD/vasya19.md)
