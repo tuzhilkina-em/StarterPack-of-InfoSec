@@ -1,5 +1,11 @@
 ## Что хранится в SYSVOL
 
+На моей админской виртуалке это выглядит следующим образом: 
+
+
+
+[Документация по SYSVOL](https://learn.microsoft.com/ru-ru/troubleshoot/windows-server/group-policy/rebuild-sysvol-tree-and-content-in-a-domain)
+
 `Policies` - хранит GPO, внутри находятся папки с GUID каждой политики, содержащие `registry.pol`, scripts, preferences и administrative settings
 
 `Scripts` - хранит logon/logoff/startup/shutdown scripts, используемые Group Policy
