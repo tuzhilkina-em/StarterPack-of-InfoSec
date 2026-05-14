@@ -38,7 +38,7 @@
 2. [Где применяется FQDN? Связь FQDN и NetBIOS?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/de4d9273e72bf05882814fb853005a08bf910668/AD/vasya2.md)
 3. [Компонент репликации AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3ed589e02232498d51bc4d3242a3bb07701ea3d8/AD/vasya3.md)
 4. [Что такое DNSSEC?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7c256c9c57ab1341f52d1cad8fc3f26ce9068595/DNS/4*.md)
-5. Что такое AdminSDHolder?
+5. [Что такое AdminSDHolder?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0c0e44b482897065ba889d870e07a38f33062957/AD/vasya5.md)
 6. [Включена ли корзина AD по умолчанию?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/d4a5835af3a2c0784fab48217036ac189972f87b/AD/10.md)
 7. [Что хранится в SYSVOL?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c7842fe42de68d370dec63ebdc8a92cad1fd6df3/AD/vasya7.md)
 8. [Как работает механизм Protected Users](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/49f40f4eb3c69641606134295db2098ee37d11d6/AD/vasya9.md)
