@@ -2,9 +2,12 @@
 
 На моей админской виртуалке это выглядит следующим образом: 
 
+![njevsf](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f039fd6ad6031c595a4a1c7b3255b272f29349e1/soc/L1/base/images/photo_2026-05-14%2016.23.20.jpeg)
+
+[Документация по SYSVOL](https://learn.microsoft.com/ru-ru/troubleshoot/windows-server/group-policy/rebuild-sysvol-tree-and-content-in-a-domain)  
 
 
-[Документация по SYSVOL](https://learn.microsoft.com/ru-ru/troubleshoot/windows-server/group-policy/rebuild-sysvol-tree-and-content-in-a-domain)
+Вообще из разных источников информация разная, примерная сводка:
 
 `Policies` - хранит GPO, внутри находятся папки с GUID каждой политики, содержащие `registry.pol`, scripts, preferences и administrative settings
 
