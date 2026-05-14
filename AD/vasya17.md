@@ -13,4 +13,4 @@
 
 В принципе, уже можно открывать gpmc.msc и редачить гпо как душе угодно
 
-![gpmc](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/fabcfdd725a9f38817663966a0f1dd9fd5ce4245/soc/L1/base/images/photo_2026-05-14%2010.54.43.jpeg)
+![gpmc](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f49eec5b472dfc271c14027fff0e9fcd6539f389/soc/L1/base/images/photo_2026-05-14%2015.00.34.jpeg)
