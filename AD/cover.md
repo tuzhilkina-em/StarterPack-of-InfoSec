@@ -53,6 +53,6 @@
 17. ﻿[При сбросе УЗ компьютера какой пароль устанавливается по умолчанию и в каких функциональных уровнях лесов?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0f48382f46a9c125a656f2ed74564c51f27deeb4/AD/vasya18.md)
 18. [﻿﻿Как работает LDAPS](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e2666e9cd097856436b451257bfd143b41b54857/AD/vasya19.md)
 19. [Архитектурные типы лесов Active Directory](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/375d366b323d85ff9576f6a3360d8ceb3f517200/AD/vasya20.md)
-21. Почему после добавления пользователя в группу FS_Wx на изменение файлов в каталоге \\fs\files\Docs на файловом сервере доступ на изменение отсутствует?
+21. [Почему после добавления пользователя в группу FS_Wx на изменение файлов в каталоге \\fs\files\Docs на файловом сервере доступ на изменение отсутствует?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/82d527332247c06fc4c765ce46f29cbec91bf6e4/AD/vasya.md)
  
 
