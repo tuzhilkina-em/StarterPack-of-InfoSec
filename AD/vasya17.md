@@ -11,3 +11,4 @@
 
 ![add-gpo](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/fabcfdd725a9f38817663966a0f1dd9fd5ce4245/soc/L1/base/images/photo_2026-05-14%2010.54.43.jpeg)  
 
+В принципе, уже можно открывать gpmc.msc и редачить гпо как душе угодно
