@@ -20,5 +20,14 @@
 ![check](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b765c5b07c3dc41d2aaac8533833ec032fefaed6/soc/L1/base/images/photo_2026-05-13%2017.01.58.jpeg)
 
 
-Сами сайты готовы, просмотр линков с DC 
-![links](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3c519b9ad6a4e193fd2afa8153fe47206407e16c/soc/L1/base/images/photo_2026-05-13%2017.27.15.jpeg)
+Сами сайты готовы, отображаемые параметры при просмотре линков с DC 
+
+![links](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3c519b9ad6a4e193fd2afa8153fe47206407e16c/soc/L1/base/images/photo_2026-05-13%2017.27.15.jpeg)  
+
+Изменение параметров межсайтовой репликации: (Последним ключом возможно указание любого параметра, после чего требуется указать новое значение)
+
+
+
+
+
+
