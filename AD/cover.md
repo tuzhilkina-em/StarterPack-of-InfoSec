@@ -42,7 +42,7 @@
 6. Включена ли корзина AD по умолчанию?
 7. Что хранится в SYSVOL?
 8. adminsdholder
-9. Как работает механизм Protected Users
+9. [Как работает механизм Protected Users](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/49f40f4eb3c69641606134295db2098ee37d11d6/AD/vasya9.md)
 10. Организация архитектуры Tiering в Active Directory
 11. [Гранулированная парольная политика в домене](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b75eae1e87f1f1b3be61a0febfa3ee5120412827/AD/vasya11.md)
 12. [Механизм теневых групп (Shadow groups)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5095b39dfc375585d1605cbe1c4c7874315c5a6a/AD/vasya12.md)
