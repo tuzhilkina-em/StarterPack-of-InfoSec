@@ -37,7 +37,7 @@
 1. Почему не даёт в другой подсети сделать ptr запись?
 2. Где применяется FQDN? Связь FQDN и NetBIOS?
 3. Компонент репликации AD?
-4. Что такое DNSSEC?
+4. [Что такое DNSSEC?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7c256c9c57ab1341f52d1cad8fc3f26ce9068595/DNS/4*.md)
 5. Что такое AdminSDHolder?
 6. [Включена ли корзина AD по умолчанию?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/d4a5835af3a2c0784fab48217036ac189972f87b/AD/10.md)
 7. [Что хранится в SYSVOL?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c7842fe42de68d370dec63ebdc8a92cad1fd6df3/AD/vasya7.md)
