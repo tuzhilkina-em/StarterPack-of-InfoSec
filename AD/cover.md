@@ -39,21 +39,20 @@
 3. Компонент репликации AD?
 4. Что такое DNSSEC?
 5. Что такое AdminSDHolder?
-6. Включена ли корзина AD по умолчанию?
+6. [Включена ли корзина AD по умолчанию?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/d4a5835af3a2c0784fab48217036ac189972f87b/AD/10.md)
 7. [Что хранится в SYSVOL?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c7842fe42de68d370dec63ebdc8a92cad1fd6df3/AD/vasya7.md)
-8. adminsdholder
-9. [Как работает механизм Protected Users](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/49f40f4eb3c69641606134295db2098ee37d11d6/AD/vasya9.md)
-10. Организация архитектуры Tiering в Active Directory
-11. [Гранулированная парольная политика в домене](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b75eae1e87f1f1b3be61a0febfa3ee5120412827/AD/vasya11.md)
-12. [Механизм теневых групп (Shadow groups)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5095b39dfc375585d1605cbe1c4c7874315c5a6a/AD/vasya12.md)
-13. [Лабораторная работа - Централизованное хранилище ADMX файлов](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0ab71b14ce3324c2045c82c815acedc5a45ef434/AD/vasya13.md)
-14. ﻿[Процесс построения топологии репликации КСС](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6c42d152bcd5030a0fc3b05e0d7d1b0b3111c16b/AD/vasya14.md)
-15. [Механизм PKInit](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/280e966a27b48efb23ab4a982d841c4f63b9a369/AD/vasya15.md)
-16. [Лабораторная - включение метода репликации по уведомлению для межсайтовых линков](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/69e66175e2628b6a205658ac21f0e877df1025b2/AD/vasya16.md)
-17. [﻿Методы быстрого применения новой групповой политики на всех хостах (1000+ хостов)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/57b9ba408768b035c0fc3fb8f025e337d60363cf/AD/vasya17.md)
-18. ﻿[При сбросе УЗ компьютера какой пароль устанавливается по умолчанию и в каких функциональных уровнях лесов?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0f48382f46a9c125a656f2ed74564c51f27deeb4/AD/vasya18.md)
-19. [﻿﻿Как работает LDAPS](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e2666e9cd097856436b451257bfd143b41b54857/AD/vasya19.md)
-20. [Архитектурные типы лесов Active Directory](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/375d366b323d85ff9576f6a3360d8ceb3f517200/AD/vasya20.md)
+8. [Как работает механизм Protected Users](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/49f40f4eb3c69641606134295db2098ee37d11d6/AD/vasya9.md)
+9. Организация архитектуры Tiering в Active Directory
+10. [Гранулированная парольная политика в домене](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/b75eae1e87f1f1b3be61a0febfa3ee5120412827/AD/vasya11.md)
+11. [Механизм теневых групп (Shadow groups)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5095b39dfc375585d1605cbe1c4c7874315c5a6a/AD/vasya12.md)
+12. [Лабораторная работа - Централизованное хранилище ADMX файлов](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0ab71b14ce3324c2045c82c815acedc5a45ef434/AD/vasya13.md)
+13. ﻿[Процесс построения топологии репликации КСС](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6c42d152bcd5030a0fc3b05e0d7d1b0b3111c16b/AD/vasya14.md)
+14. [Механизм PKInit](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/280e966a27b48efb23ab4a982d841c4f63b9a369/AD/vasya15.md)
+15. [Лабораторная - включение метода репликации по уведомлению для межсайтовых линков](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/69e66175e2628b6a205658ac21f0e877df1025b2/AD/vasya16.md)
+16. [﻿Методы быстрого применения новой групповой политики на всех хостах (1000+ хостов)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/57b9ba408768b035c0fc3fb8f025e337d60363cf/AD/vasya17.md)
+17. ﻿[При сбросе УЗ компьютера какой пароль устанавливается по умолчанию и в каких функциональных уровнях лесов?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0f48382f46a9c125a656f2ed74564c51f27deeb4/AD/vasya18.md)
+18. [﻿﻿Как работает LDAPS](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e2666e9cd097856436b451257bfd143b41b54857/AD/vasya19.md)
+19. [Архитектурные типы лесов Active Directory](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/375d366b323d85ff9576f6a3360d8ceb3f517200/AD/vasya20.md)
 21. Почему после добавления пользователя в группу FS_Wx на изменение файлов в каталоге \\fs\files\Docs на файловом сервере доступ на изменение отсутствует?
  
 
