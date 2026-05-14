@@ -21,7 +21,7 @@
 19. [Какие права по умолчанию есть у пользователя на просмотр объектов AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/faac35a18a4a7fa140ca59e197fe21eb125a2660/AD/19.md)
 20. [Что можно узнать по атрибутам пользователя?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/cc731da507d41aed0667ed03dfae35768cce3b06/AD/20.md)
 21. [Какие есть уровни доступа на уровне NTFS?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/78c63176eafe96f9573e41fca0b9545d7c30f042/AD/21.md)    
-21.1* Как создать такую папку в которую могут перемещать файлы все пользователи, а просматривать и редактировать, только тот кто ее создал?
+21.1* [Как создать такую папку в которую могут перемещать файлы все пользователи, а просматривать и редактировать, только тот кто ее создал?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/57b9ba408768b035c0fc3fb8f025e337d60363cf/AD/vasya17.md)
 22. [Что такое FQDN?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f7282550f6d7ed1d81f29dd6fcff0e22bae09b3b/AD/22.md)
 23. Какие инструменты для управления сервисами AD доступно по умолчанию?
 24. [Какие основные протоколы аутентификации в доменной среде вы знаете? В чем их отличие?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f665a8640b5a199918ef90fe9b81435852fdc8d/AD/24.md)  
@@ -50,7 +50,7 @@
 14. ﻿[Процесс построения топологии репликации КСС](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/6c42d152bcd5030a0fc3b05e0d7d1b0b3111c16b/AD/vasya14.md)
 15. [Механизм PKInit](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/280e966a27b48efb23ab4a982d841c4f63b9a369/AD/vasya15.md)
 16. [Лабораторная - включение метода репликации по уведомлению для межсайтовых линков](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/69e66175e2628b6a205658ac21f0e877df1025b2/AD/vasya16.md)
-17. ﻿Методы быстрого применения новой групповой политики на всех хостах (1000+ хостов)
+17. [﻿Методы быстрого применения новой групповой политики на всех хостах (1000+ хостов)](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/57b9ba408768b035c0fc3fb8f025e337d60363cf/AD/vasya17.md)
 18. ﻿[При сбросе УЗ компьютера какой пароль устанавливается по умолчанию и в каких функциональных уровнях лесов?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/0f48382f46a9c125a656f2ed74564c51f27deeb4/AD/vasya18.md)
 19. [﻿﻿Как работает LDAPS](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e2666e9cd097856436b451257bfd143b41b54857/AD/vasya19.md)
 20. [Архитектурные типы лесов Active Directory](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/375d366b323d85ff9576f6a3360d8ceb3f517200/AD/vasya20.md)
