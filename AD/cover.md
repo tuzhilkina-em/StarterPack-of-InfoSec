@@ -40,7 +40,7 @@
 4. Что такое DNSSEC?
 5. Что такое AdminSDHolder?
 6. Включена ли корзина AD по умолчанию?
-7. Что хранится в SYSVOL?
+7. [Что хранится в SYSVOL?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c7842fe42de68d370dec63ebdc8a92cad1fd6df3/AD/vasya7.md)
 8. adminsdholder
 9. [Как работает механизм Protected Users](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/49f40f4eb3c69641606134295db2098ee37d11d6/AD/vasya9.md)
 10. Организация архитектуры Tiering в Active Directory
