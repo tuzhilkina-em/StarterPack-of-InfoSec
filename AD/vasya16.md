@@ -39,6 +39,11 @@
 
 
 
+Проверка статуса репликации 
+
+![check](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/5288a1b37222b7aa7c60a71a29987680cc74295d/soc/L1/base/images/photo_2026-05-14%2010.29.18.jpeg)  
+
+
 
 
 
