@@ -34,7 +34,7 @@
 31. [В ходе расследования инцидента вами было обнаружено, что учетная запись krbtgt отключена. Ваши действия?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/42f0740ec513408c9949d8f7513773446362eae6/AD/29.md)
 
 ### Допвопросы от Василия (вероятно)
-1. Почему не даёт в другой подсети сделать ptr запись?
+1. [Почему не даёт в другой подсети сделать ptr запись?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/4f2d3f9290a47a1a73cb64792de976a6c994325c/DNS/1.md)
 2. [Где применяется FQDN? Связь FQDN и NetBIOS?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/de4d9273e72bf05882814fb853005a08bf910668/AD/vasya2.md)
 3. [Компонент репликации AD?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/3ed589e02232498d51bc4d3242a3bb07701ea3d8/AD/vasya3.md)
 4. [Что такое DNSSEC?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7c256c9c57ab1341f52d1cad8fc3f26ce9068595/DNS/4*.md)
