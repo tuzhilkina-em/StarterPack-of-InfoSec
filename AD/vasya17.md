@@ -4,4 +4,7 @@
 > New-GPO -Name "LAB-GPO"  
 > New-GPLink -Name "LAB-GPO" -Target "OU=LabUsers,DC=adlab,DC=local"
 
-![add-gpo](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/59a0d6dd91dcc9dfb0f217ef2852c4a43c32d8b4/soc/L1/base/images/photo_2026-05-14%2010.47.44.jpeg)
+ 
+![add-gpo](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/59a0d6dd91dcc9dfb0f217ef2852c4a43c32d8b4/soc/L1/base/images/photo_2026-05-14%2010.47.44.jpeg)  
+
+Аналогично для OU=WinlabUsers.
