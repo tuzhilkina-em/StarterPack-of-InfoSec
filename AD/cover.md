@@ -23,7 +23,7 @@
 21. [Какие есть уровни доступа на уровне NTFS?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/78c63176eafe96f9573e41fca0b9545d7c30f042/AD/21.md)    
 21.1* [Как создать такую папку в которую могут перемещать файлы все пользователи, а просматривать и редактировать, только тот кто ее создал?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/57b9ba408768b035c0fc3fb8f025e337d60363cf/AD/vasya17.md)
 22. [Что такое FQDN?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f7282550f6d7ed1d81f29dd6fcff0e22bae09b3b/AD/22.md)
-23. Какие инструменты для управления сервисами AD доступно по умолчанию?
+23. [Какие инструменты для управления сервисами AD доступно по умолчанию?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/024bbdd656be8d4054b2e4f70af0e0176a7f6556/AD/23.md)
 24. [Какие основные протоколы аутентификации в доменной среде вы знаете? В чем их отличие?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/2f665a8640b5a199918ef90fe9b81435852fdc8d/AD/24.md)  
 25. [Что такое доверительные отношения между доменами?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/f9116567b0c60926b9c5f5d87eb9c13d0cfee82b/AD/25.md)
 26. [Что такое SID? О чем говорит SID, заканчивающийся на -500 и -512?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/8e91ce92845461133f1de5650b2fe71cdeadfe37/AD/26.md)
