@@ -1,22 +1,23 @@
 1. [Как устроена архитектура macOS: что такое XNU, Darwin, Mach, BSD layer и I/O Kit, и как это влияет на модель безопасности системы?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e06fe546960c716c3b7b1fa380709956a9c1883f/soc/L1/base/mac1.md)
 2. Как в macOS устроены процессы, потоки и системные вызовы, и какие артефакты на уровне ОС могут быть полезны при расследовании вредоносной активности?
-3. Что такое Mach-O как формат исполняемых файлов, чем .app отличается от обычного бинарника, и что смотреть при анализе подозрительного приложения?
-4. Что такое launchd, LaunchAgents и LaunchDaemons, как через них работает автозапуск и почему это один из главных механизмов persistence в macOS?
-5. Где в macOS искать закрепление вредоноса: LaunchAgents, LaunchDaemons, Login Items, cron, shell profiles, browser extensions, configuration profiles
-6. Как проверить подозрительный .plist: какие поля важны, какие пути подозрительны, как понять, что через него запускается вредоносный процесс?
-7. Что такое code signing в macOS, зачем нужна подпись приложения, чем signed, unsigned, ad-hoc signed и modified signed binary отличаются с точки зрения риска?
-8. Что такое notarization, Gatekeeper и quarantine attribute, как macOS решает, можно ли запускать скачанное из интернета приложение?
-9. Как проверить происхождение и доверенность файла: подпись, notarization, quarantine attribute, extended attributes, путь запуска и источник загрузки?
-10. Что такое SIP, почему root в macOS не всемогущий, какие области системы защищены и как это усложняет модификацию системных файлов вредоносом?
-11. Что такое Signed System Volume, зачем macOS разделяет system volume и data volume, и как это влияет на защиту и форензику?
-12. Что такое sandbox в macOS/iOS, какие ограничения он накладывает на приложения и зачем нужны entitlements?
-13. Что такое TCC, какие доступы он контролирует, почему Full Disk Access, Accessibility и Screen Recording особенно опасны при компрометации?
-14. Как вредонос может злоупотреблять Accessibility, Full Disk Access, Screen Recording или Apple Events, и какие признаки этого можно искать?
-15. Что такое Keychain, какие данные в нем хранятся, как приложения получают к ним доступ и почему Keychain важен при расследовании компрометации учетных данных?
-16. Что такое FileVault и APFS, что они защищают, а от чего не спасают, если пользователь уже вошел в систему?
-17. Где в macOS смотреть логи безопасности: Unified Logging, log show, log stream, /var/log, install logs, auth-события, sudo, ssh, Gatekeeper, TCC?
-18. Что такое Endpoint Security Framework, почему современные EDR на macOS используют его, и чем он лучше простого чтения логов?
-19. Как провести первичный triage macOS-хоста: какие процессы, сетевые соединения, автозапуск, подписи, quarantine attributes, TCC-разрешения и логи проверить в первую очередь?
+3. [Основные элементы защиты macOS от впо](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c1b68bba87b223c7ece8d95b14cb3e1d4f10153d/soc/L1/base/mac3.md)
+4. Что такое Mach-O как формат исполняемых файлов, чем .app отличается от обычного бинарника, и что смотреть при анализе подозрительного приложения?
+5. Что такое launchd, LaunchAgents и LaunchDaemons, как через них работает автозапуск и почему это один из главных механизмов persistence в macOS?
+6. Где в macOS искать закрепление вредоноса: LaunchAgents, LaunchDaemons, Login Items, cron, shell profiles, browser extensions, configuration profiles
+7. Как проверить подозрительный .plist: какие поля важны, какие пути подозрительны, как понять, что через него запускается вредоносный процесс?
+8. Что такое code signing в macOS, зачем нужна подпись приложения, чем signed, unsigned, ad-hoc signed и modified signed binary отличаются с точки зрения риска?
+9. Что такое notarization, Gatekeeper и quarantine attribute, как macOS решает, можно ли запускать скачанное из интернета приложение?
+10. Как проверить происхождение и доверенность файла: подпись, notarization, quarantine attribute, extended attributes, путь запуска и источник загрузки?
+11. Что такое SIP, почему root в macOS не всемогущий, какие области системы защищены и как это усложняет модификацию системных файлов вредоносом?
+12. Что такое Signed System Volume, зачем macOS разделяет system volume и data volume, и как это влияет на защиту и форензику?
+13. Что такое sandbox в macOS/iOS, какие ограничения он накладывает на приложения и зачем нужны entitlements?
+14. Что такое TCC, какие доступы он контролирует, почему Full Disk Access, Accessibility и Screen Recording особенно опасны при компрометации?
+15. Как вредонос может злоупотреблять Accessibility, Full Disk Access, Screen Recording или Apple Events, и какие признаки этого можно искать?
+16. Что такое Keychain, какие данные в нем хранятся, как приложения получают к ним доступ и почему Keychain важен при расследовании компрометации учетных данных?
+17. Что такое FileVault и APFS, что они защищают, а от чего не спасают, если пользователь уже вошел в систему?
+18. Где в macOS смотреть логи безопасности: Unified Logging, log show, log stream, /var/log, install logs, auth-события, sudo, ssh, Gatekeeper, TCC?
+19. Что такое Endpoint Security Framework, почему современные EDR на macOS используют его, и чем он лучше простого чтения логов?
+20. Как провести первичный triage macOS-хоста: какие процессы, сетевые соединения, автозапуск, подписи, quarantine attributes, TCC-разрешения и логи проверить в первую очередь?
 21. Какие типовые способы заражения macOS встречаются чаще всего: fake updates, cracked software, malicious .dmg, .pkg, .app, вредоносные расширения?
 22. Какие встроенные утилиты macOS могут использоваться злоумышленником для living-off-the-land: curl, bash, osascript, python, sqlite3, launchctl, security?
 23. Почему osascript и AppleScript могут быть опасны, какие действия они позволяют автоматизировать и как это может выглядеть в атаке?
