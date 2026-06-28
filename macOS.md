@@ -1,7 +1,7 @@
 1. [Как устроена архитектура macOS: что такое XNU, Darwin, Mach, BSD layer и I/O Kit, и как это влияет на модель безопасности системы?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/e06fe546960c716c3b7b1fa380709956a9c1883f/soc/L1/base/mac1.md)
 2. [Как в macOS устроены процессы, потоки и системные вызовы, и какие артефакты на уровне ОС могут быть полезны при расследовании вредоносной активности?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/07301d76e80f2a8fa896cbbfa6e68edba4fedc1f/soc/L1/base/mac2.md)
 3. [Основные элементы защиты macOS от впо](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/c1b68bba87b223c7ece8d95b14cb3e1d4f10153d/soc/L1/base/mac3.md)
-4. Что такое Mach-O как формат исполняемых файлов, чем .app отличается от обычного бинарника, и что смотреть при анализе подозрительного приложения?
+4. [Что такое Mach-O как формат исполняемых файлов, чем .app отличается от обычного бинарника, и что смотреть при анализе подозрительного приложения?](https://github.com/tuzhilkina-em/StarterPack-of-InfoSec/blob/7867ff76a292f98df821ae2d9b8ae647176be9c8/soc/L1/base/mac4.md)
 5. Что такое launchd, LaunchAgents и LaunchDaemons, как через них работает автозапуск и почему это один из главных механизмов persistence в macOS?
 6. Где в macOS искать закрепление вредоноса: LaunchAgents, LaunchDaemons, Login Items, cron, shell profiles, browser extensions, configuration profiles
 7. Как проверить подозрительный .plist: какие поля важны, какие пути подозрительны, как понять, что через него запускается вредоносный процесс?
